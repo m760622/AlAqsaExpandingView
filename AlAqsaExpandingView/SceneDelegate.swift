@@ -1,10 +1,10 @@
 //
 //  SceneDelegate.swift
 //  AlAqsaExpandingView
-//
+// m7606225@gmail.com
 //  Created by Mohammed Abunada on 2020-06-22.
 //  Copyright © 2020 NMDS. All rights reserved.
-//
+// https://github.com/m760622
 
 import UIKit
 import SwiftUI
